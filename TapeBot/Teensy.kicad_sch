@@ -7408,6 +7408,11 @@
     )
   )
 
+  (text "Teensy 4.1\n" (at 24.13 24.13 0)
+    (effects (font (size 3 3) (thickness 1) bold) (justify left bottom))
+    (uuid b87da307-009d-494c-adbf-244efed881ec)
+  )
+
   (global_label "M6_CTL2" (shape input) (at 41.91 82.55 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 080047ce-7cdb-4724-ad18-efb2041ccdf2)
