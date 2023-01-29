@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '43045_0412'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "43045-0412" (!) = "", "43045-04YY_121314", "Other", "538-43045-0412", "https://www.mouser.co.uk/ProductDetail/Molex/43045-0412?qs=UeCeOHRHQebPBbEMDLocEw%3D%3D", "Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Dual Row, 4 Circuits, with PCB Polarizing Peg, Glow-Wire Capable", "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf", "9.91 mm"
+END_PART
+
+END.
