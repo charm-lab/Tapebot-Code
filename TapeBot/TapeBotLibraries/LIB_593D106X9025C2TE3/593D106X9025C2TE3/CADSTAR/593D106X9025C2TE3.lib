@@ -1,0 +1,16 @@
+.593D106X9025C2TE3 :1 ;Vishay +/-10% 10uF 25 V dc SMD Tantalum Electrolytic Capacitor, 6032-28 ESR 450m +125C
+CAPPM6032X280N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 593D106X9025C2TE3
+~!Mouser Part Number (74-593D106X9025C2TE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/593D106X9025C2TE3?qs=TsARsRgmYAZdlImOQF2ipQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (593D106X9025C2TE3)
+~!Link Datasheet (http://www.vishay.com/doc?40005)
+~!Height (2.8mm)
+~!3D_Model (593D106X9025C2TE3)
+"593D106X9025C2TE3"
+1.1!U 2.1!U 

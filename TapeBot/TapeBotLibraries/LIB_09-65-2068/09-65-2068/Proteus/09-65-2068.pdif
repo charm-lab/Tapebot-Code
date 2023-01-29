@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "09-65-2068"
+   (description "Molex KK Series, Series Number 5273, 3.96mm Pitch 6 Way 1 Row Straight PCB Header, Solder Termination, 7A")
+   (family "CON")
+   (package "HDRV6W80P0X396_1X6_2300X1062X1425P")
+   (attribute "Datasheet Link" "http://www.molex.com/pdm_docs/sd/009652048_sd.pdf")
+   (attribute "Geometry.Height" "14.25mm")
+   (attribute "Mouser Part Number" "538-09-65-2068")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/09-65-2068?qs=cRUT3GdJqny553Uo%2Fa8qjA%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "09-65-2068")
+   (gate
+    (symbol "09-65-2068")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+   )
+  )
+  (symbol "09-65-2068"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HDRV6W80P0X396_1X6_2300X1062X1425P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt -1.975 -5.875)
+      (pt -1.975 5.875)
+      (pt 21.775 5.875)
+      (pt 21.775 -5.875)
+      (pt -1.975 -5.875))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.725 -5.625)
+      (pt -1.725 5.625)
+      (pt 21.525 5.625)
+      (pt 21.525 -5.625)
+      (pt -1.725 -5.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.725 0)
+      (pt -1.725 -5.625)
+      (pt 21.525 -5.625)
+      (pt 21.525 5.625)
+      (pt 0 5.625))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 3.96 0) (padstack 0))
+   (leg 3 (pt 7.92 0) (padstack 0))
+   (leg 4 (pt 11.88 0) (padstack 0))
+   (leg 5 (pt 15.84 0) (padstack 0))
+   (leg 6 (pt 19.8 0) (padstack 0))
+   (padstack 0
+    (hole 1.35)
+    (plated true)
+    (pad (layer TCOP) (round 2.025))
+    (pad (layer INNER) (round 2.025))
+    (pad (layer BCOP) (round 2.025))
+   )
+   (padstack 1
+    (hole 1.35)
+    (plated true)
+    (pad (layer TCOP) (square 2.025))
+    (pad (layer INNER) (round 2.025))
+    (pad (layer BCOP) (square 2.025))
+   )
+   (model "09-65-2068.stp"
+    (euler 90 0 0)
+    (offset 9.899999618530273 4.599999904632568 0)
+   )
+  )
+ )
+)

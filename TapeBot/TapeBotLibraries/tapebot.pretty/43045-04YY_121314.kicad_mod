@@ -43,4 +43,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/TapeBotLibraries/LIB_43045-0412 (1)/43045-0412/3D/43045-0412.stp"
+    (offset (xyz -1.27 1.27 5.08))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

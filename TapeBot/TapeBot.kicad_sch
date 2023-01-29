@@ -41415,422 +41415,461 @@
   )
 
   (symbol_instances
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0d8cfcdb-32ff-44ea-b523-e5793d573ae0"
-      (reference "#GND0102") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/cd5d3af9-147c-46c3-96b9-a7f21f65df9e"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/81e593e8-398c-4597-9205-289ded272b27"
-      (reference "#GND0103") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/dd476742-8fe5-4e55-877c-3ad277d9a3fc"
-      (reference "#GND0104") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ecc7e5e8-68bb-4514-aefe-ae9962b635db"
-      (reference "#GND0105") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/6cdffc3c-526b-4122-9acd-5006c4fee44c"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/fc8eb77f-74a8-485a-94ea-0f45cacd71fc"
-      (reference "#GND0106") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/bd53108c-7cca-45e0-9c09-c30b0e02a448"
-      (reference "#GND0107") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1a8d8bd4-9b92-4aaa-b431-4b43145079fb"
-      (reference "#GND0108") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e32fb3f1-4e7c-4907-8cb3-e398cec5ff06"
-      (reference "#GND0109") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ba51e7f6-9a75-42fe-b1f6-7f9f1ef8ce7f"
-      (reference "#GND0110") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/09548f0d-24c3-499c-a526-33f31127fb34"
-      (reference "#GND0121") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/243828e8-ae8a-49f8-a7eb-a2e79ac692bd"
-      (reference "#GND0122") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/c6268918-8443-42af-950a-fb511632549e"
-      (reference "#GND0124") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/0f945188-96b2-4492-909f-386a3edac68d"
-      (reference "#GND0125") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/6cd7bad9-fb6a-4f69-a7cf-1a8bf9753d9c"
-      (reference "#GND0126") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bfada461-ae9e-4a6e-9af2-f0b5ce2219eb"
-      (reference "#GND0127") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/16f96f06-08ac-44b1-a18a-5240ba7c2b3e"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/170be3dc-7f74-421f-ada1-7c75e028ebcf"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/17a4c3dc-1585-4957-8b24-4922ee9e4596"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/20fc1292-6536-421e-a423-3a85941b1bba"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/229ea510-a017-47f8-9879-b5026ae58797"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/23ff1231-1e24-4b22-9771-f24236037a3c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/2f8e86b6-0e2c-47f8-86d7-4f0a8a58251f"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/2fb2bfdd-a672-478e-9212-19ace9abfce8"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+      (reference "#GND01") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/36b5e023-1bf7-4290-bc81-226134e1993f"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+      (reference "#GND02") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/39e0a652-52c1-42b4-8c11-f9b5a860d8fa"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/44b09e6c-e9f1-43de-ae79-00824147247a"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/499a49ac-556f-46c3-b8f0-31fea7110625"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/55657b16-b5ab-4245-bd35-6e99e0527a74"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/bd53108c-7cca-45e0-9c09-c30b0e02a448"
+      (reference "#GND03") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/56e86633-4bf7-4a35-88ea-c4db493da15c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+      (reference "#GND04") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/71fb3109-007c-4c4a-aeea-c7e80148959e"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1a8d8bd4-9b92-4aaa-b431-4b43145079fb"
+      (reference "#GND05") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/76a051c5-7879-4780-ad11-28882316be87"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/55657b16-b5ab-4245-bd35-6e99e0527a74"
+      (reference "#GND06") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/792e0280-c719-4174-9a7a-101ca68cd0e3"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/7c3012d1-4451-43a3-bdd2-5d236d241d88"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/8ab5b9fa-25a8-40f0-bbdd-0ef974ae9ec4"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e32fb3f1-4e7c-4907-8cb3-e398cec5ff06"
+      (reference "#GND07") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/8d6d52a8-6897-4eb4-a913-64da9cb50189"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+      (reference "#GND08") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/9791c12a-8081-42c5-a65b-b9adef950212"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a199ac88-6f2e-4700-8992-660bb799e28e"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a7a44be9-6ef1-4959-94b2-a1023bbd44dc"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ac09a313-3544-4f75-92c1-ca97c7f1060c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bb689108-83ac-40ec-a55d-e57b11f01460"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0d8cfcdb-32ff-44ea-b523-e5793d573ae0"
+      (reference "#GND09") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ce5c1ab2-7751-42a6-91c2-e7da97303a7c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+      (reference "#GND010") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/d26e6434-ffa7-437f-9582-5dcaab882a4c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/81e593e8-398c-4597-9205-289ded272b27"
+      (reference "#GND011") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/44b09e6c-e9f1-43de-ae79-00824147247a"
+      (reference "#GND012") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/dd476742-8fe5-4e55-877c-3ad277d9a3fc"
+      (reference "#GND013") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ac09a313-3544-4f75-92c1-ca97c7f1060c"
+      (reference "#GND014") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ecc7e5e8-68bb-4514-aefe-ae9962b635db"
+      (reference "#GND015") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/dd6d201d-d2f4-4a77-94ae-7be5c669fa1d"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+      (reference "#GND016") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ba51e7f6-9a75-42fe-b1f6-7f9f1ef8ce7f"
+      (reference "#GND017") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/8ab5b9fa-25a8-40f0-bbdd-0ef974ae9ec4"
+      (reference "#GND018") (unit 1) (value "GND") (footprint "SparkFun_HX711_Load_Cell:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/a389eff9-10da-47d6-bf20-046cf3006fcc"
+      (reference "#GND019") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/601e26e2-7ba0-4104-bd0a-11770561d4fb"
+      (reference "#GND020") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/dfda74c9-7583-4ca2-89fa-a8f65b67c85e"
+      (reference "#GND021") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/4a339c48-e0e6-4b52-8ffc-f9b777fe8180"
+      (reference "#GND022") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/8b5c069e-4566-4334-b6d4-d991d3c309f2"
+      (reference "#GND023") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/ca74d0f1-33ff-4022-a148-4452ca9f4bd9"
+      (reference "#GND024") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e67063e9-987a-4133-8ffc-2b2c25313909"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+      (reference "#GND025") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/ea23e519-8033-4dd3-9338-8ca1f37d2a63"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bfada461-ae9e-4a6e-9af2-f0b5ce2219eb"
+      (reference "#GND026") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/23ff1231-1e24-4b22-9771-f24236037a3c"
+      (reference "#GND027") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/f0e99691-8232-4180-8d5b-2c8203913740"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+      (reference "#GND028") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/02a4187d-f13d-459a-acf0-f324cb184151"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/c6268918-8443-42af-950a-fb511632549e"
+      (reference "#GND029") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/499a49ac-556f-46c3-b8f0-31fea7110625"
+      (reference "#GND030") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/6cd7bad9-fb6a-4f69-a7cf-1a8bf9753d9c"
+      (reference "#GND031") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/ea23e519-8033-4dd3-9338-8ca1f37d2a63"
+      (reference "#GND032") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/09548f0d-24c3-499c-a526-33f31127fb34"
+      (reference "#GND033") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/76a051c5-7879-4780-ad11-28882316be87"
+      (reference "#GND034") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/243828e8-ae8a-49f8-a7eb-a2e79ac692bd"
+      (reference "#GND035") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/39e0a652-52c1-42b4-8c11-f9b5a860d8fa"
+      (reference "#GND036") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/0f945188-96b2-4492-909f-386a3edac68d"
+      (reference "#GND037") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/71fb3109-007c-4c4a-aeea-c7e80148959e"
+      (reference "#GND038") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/d26e6434-ffa7-437f-9582-5dcaab882a4c"
+      (reference "#GND039") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/229ea510-a017-47f8-9879-b5026ae58797"
+      (reference "#GND040") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/792e0280-c719-4174-9a7a-101ca68cd0e3"
+      (reference "#GND041") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/17a4c3dc-1585-4957-8b24-4922ee9e4596"
+      (reference "#GND042") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/7c3012d1-4451-43a3-bdd2-5d236d241d88"
+      (reference "#GND043") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/20fc1292-6536-421e-a423-3a85941b1bba"
+      (reference "#GND044") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/2fb2bfdd-a672-478e-9212-19ace9abfce8"
+      (reference "#GND045") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/170be3dc-7f74-421f-ada1-7c75e028ebcf"
+      (reference "#GND046") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/9791c12a-8081-42c5-a65b-b9adef950212"
+      (reference "#GND047") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/2f8e86b6-0e2c-47f8-86d7-4f0a8a58251f"
+      (reference "#GND048") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/16f96f06-08ac-44b1-a18a-5240ba7c2b3e"
+      (reference "#GND049") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bb689108-83ac-40ec-a55d-e57b11f01460"
+      (reference "#GND050") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a7a44be9-6ef1-4959-94b2-a1023bbd44dc"
+      (reference "#GND051") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a199ac88-6f2e-4700-8992-660bb799e28e"
+      (reference "#GND052") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/9bb8a1c0-ef9e-44ae-b7d5-90555a66aa9f"
+      (reference "#GND0101") (unit 1) (value "GND") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/07d74d92-4014-4f87-9568-649b3df8506d"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0a8fd25b-7f1b-4f22-9fcf-3ed521a0d336"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0cd7c226-3133-4b2f-ba3c-e893f78d87c1"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/151cf549-67a0-419f-abe9-db6cf0c8f777"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/19b3f625-5261-4f43-8cad-82d33b54453a"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/24bf96b4-6e2a-4a02-8c9c-91cd29a11836"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/28682229-2b44-45e1-9653-447a0873c7cb"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/514a9540-6dfc-425f-a233-229f086c914d"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/54466eca-8d1a-4bc3-bd63-7db515285fed"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/5a5e77ae-87d8-431e-8c28-1ce6117ac2a3"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/6049f2d1-c2d0-44dc-9fee-65fdd7aca641"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/63bbe68a-087f-413f-a95a-080a1c5d855d"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/656ab34f-5c35-4d5a-9707-b975e77b492b"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR02") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/690f7c38-06ef-4400-abc9-e44aaa5fbcf0"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/69fb1314-30ee-4d50-a7ea-31e94c4afc86"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/70392bc7-e7e4-48c1-a780-b1f4a0e6452d"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/75b323bc-2981-4ca3-998f-dab9c577ec23"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/80448525-3d97-4c2e-9fcf-1bcfa8a5fd0e"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/86c64f30-020b-4b4c-9646-8c9a9551ff9c"
-      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/87a95a03-2e75-4533-8dff-7678f8f4f6f3"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/903f4fbf-de63-4ee3-a10c-8d69d1231dac"
-      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/924aa7f3-0ae0-4c78-88a0-baf46fbaac91"
-      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/9ad15ab4-9145-4797-8b62-9bf4b99ed071"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a5abb0b2-b2ad-471e-90b9-9c0abafc2ba0"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR03") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/b367e4f9-a38e-472f-a9cb-bd9bc46fc150"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR04") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/cba51dc2-7694-416f-a574-8f6d6c5ebc33"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0cd7c226-3133-4b2f-ba3c-e893f78d87c1"
+      (reference "#PWR05") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/75b323bc-2981-4ca3-998f-dab9c577ec23"
+      (reference "#PWR06") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/0a8fd25b-7f1b-4f22-9fcf-3ed521a0d336"
+      (reference "#PWR07") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/d37b7326-5bc9-4c66-918c-f0282c2a28e1"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR08") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/da386289-db7c-455d-8645-2c8fbe4ed140"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/5a5e77ae-87d8-431e-8c28-1ce6117ac2a3"
+      (reference "#PWR09") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/de1cd135-d641-45a0-88db-c4764ffdd933"
-      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e1b1844a-fe86-4102-8742-89611d1f11a4"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/28682229-2b44-45e1-9653-447a0873c7cb"
+      (reference "#PWR010") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/eb0bd914-3695-4264-a0f0-692a49beb210"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR011") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/f1f525a7-0dea-4f0c-9b69-335c121ada76"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/514a9540-6dfc-425f-a233-229f086c914d"
+      (reference "#PWR012") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/80448525-3d97-4c2e-9fcf-1bcfa8a5fd0e"
+      (reference "#PWR013") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/656ab34f-5c35-4d5a-9707-b975e77b492b"
+      (reference "#PWR014") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/c9972848-3221-484c-aa32-4faf22e884c1"
+      (reference "#PWR015") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/e949f045-e835-480e-9e7c-654ac653c6d3"
+      (reference "#PWR016") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/9e3758dd-4a7e-4af4-8d5c-80aa22992d36"
+      (reference "#PWR017") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/54466eca-8d1a-4bc3-bd63-7db515285fed"
+      (reference "#PWR018") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e1b1844a-fe86-4102-8742-89611d1f11a4"
+      (reference "#PWR019") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/70392bc7-e7e4-48c1-a780-b1f4a0e6452d"
+      (reference "#PWR020") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/f85e9ace-43ad-409b-a148-f6e1dee4c336"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR021") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/9ad15ab4-9145-4797-8b62-9bf4b99ed071"
+      (reference "#PWR022") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/cba51dc2-7694-416f-a574-8f6d6c5ebc33"
+      (reference "#PWR023") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/903f4fbf-de63-4ee3-a10c-8d69d1231dac"
+      (reference "#PWR024") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/924aa7f3-0ae0-4c78-88a0-baf46fbaac91"
+      (reference "#PWR025") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/a5abb0b2-b2ad-471e-90b9-9c0abafc2ba0"
+      (reference "#PWR026") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/19b3f625-5261-4f43-8cad-82d33b54453a"
+      (reference "#PWR027") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/24bf96b4-6e2a-4a02-8c9c-91cd29a11836"
+      (reference "#PWR028") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/f1f525a7-0dea-4f0c-9b69-335c121ada76"
+      (reference "#PWR029") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/69fb1314-30ee-4d50-a7ea-31e94c4afc86"
+      (reference "#PWR030") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/da386289-db7c-455d-8645-2c8fbe4ed140"
+      (reference "#PWR031") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/6049f2d1-c2d0-44dc-9fee-65fdd7aca641"
+      (reference "#PWR032") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/87a95a03-2e75-4533-8dff-7678f8f4f6f3"
+      (reference "#PWR033") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/86c64f30-020b-4b4c-9646-8c9a9551ff9c"
+      (reference "#PWR034") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/de1cd135-d641-45a0-88db-c4764ffdd933"
+      (reference "#PWR035") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/02a4187d-f13d-459a-acf0-f324cb184151"
+      (reference "#PWR036") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/151cf549-67a0-419f-abe9-db6cf0c8f777"
+      (reference "#PWR037") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/59299611-6aa7-467d-b2cc-cf35ecc5dc64"
+      (reference "#PWR0101") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/7de10a97-144a-47b4-af89-2ed49737c63d"
-      (reference "C3") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/46505639-df24-4753-a72a-1f957ea8dd8d"
-      (reference "C5") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e9e713ac-a283-41c6-bfbd-fad9cdb54fe8"
-      (reference "C7") (unit 1) (value "10uF") (footprint "SparkFun_HX711_Load_Cell:1210")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/d17fd493-3a86-4851-a71f-d157b15603df"
-      (reference "C8") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1c606045-b026-43f1-bd18-b307067b6183"
-      (reference "C10") (unit 1) (value "10uF") (footprint "SparkFun_HX711_Load_Cell:1210")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/f9c3ed21-f122-45cf-86cf-07dfc732a918"
-      (reference "C13") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e6fcd42d-c46e-48e7-9be5-ec9fae209400"
-      (reference "C14") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/394c81dd-98ee-4d01-8805-4bb97b06676d"
-      (reference "C16") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/5034d7ce-1f68-4317-a2a0-2cca2fce498d"
-      (reference "C18") (unit 1) (value "10uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:EIA3528")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/21b5daec-350c-448d-a356-aa5f8a468049"
-      (reference "C20") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/12108d27-8b41-418e-a0d2-a9d5987e5009"
-      (reference "C?") (unit 1) (value "10uF") (footprint "SparkFun_HX711_Load_Cell:1210")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/1b2fd34f-03fd-4b1a-a06f-444c72ddddd4"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1cf403eb-769f-47a4-8a42-fba8fff06d6e"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/284ddab8-492a-4274-9988-db882beeb680"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/31185bc1-8390-458d-afe9-c25319ceb99d"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3aea677c-436a-41f9-a48e-bfd2b5375a40"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/454abc58-0dbd-407c-ba42-9cf99362db72"
-      (reference "C?") (unit 1) (value "10uF") (footprint "SparkFun_HX711_Load_Cell:1210")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/5e38b9fe-fc2e-45f3-b2b5-3dace2d5c101"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/616d695e-8cd3-4b5c-8463-d4602e268249"
-      (reference "C?") (unit 1) (value "10uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:EIA3528")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/69470701-d501-412a-abdc-1d305b35fe7e"
-      (reference "C?") (unit 1) (value "10uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:EIA3528")
+      (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/884f2a3d-b636-416b-b57b-0c06d1dca1f6"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_HX711_Load_Cell:0603-CAP")
+      (reference "C2") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/8ae64e9d-4b69-4d90-a914-c6ad3dbcc005"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e9e713ac-a283-41c6-bfbd-fad9cdb54fe8"
+      (reference "C3") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/96b1d58c-ae88-4a32-bb63-6ba9a575f0e1"
-      (reference "C?") (unit 1) (value "10uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:EIA3528")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/454abc58-0dbd-407c-ba42-9cf99362db72"
+      (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/cdc54273-7a3f-493c-bf3e-5529171dd312"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/f9c3ed21-f122-45cf-86cf-07dfc732a918"
+      (reference "C5") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e6fcd42d-c46e-48e7-9be5-ec9fae209400"
+      (reference "C6") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3aea677c-436a-41f9-a48e-bfd2b5375a40"
+      (reference "C7") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1cf403eb-769f-47a4-8a42-fba8fff06d6e"
+      (reference "C8") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/46505639-df24-4753-a72a-1f957ea8dd8d"
+      (reference "C9") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/31185bc1-8390-458d-afe9-c25319ceb99d"
+      (reference "C10") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/d17fd493-3a86-4851-a71f-d157b15603df"
+      (reference "C11") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/284ddab8-492a-4274-9988-db882beeb680"
+      (reference "C12") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1c606045-b026-43f1-bd18-b307067b6183"
+      (reference "C13") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/12108d27-8b41-418e-a0d2-a9d5987e5009"
+      (reference "C14") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/394c81dd-98ee-4d01-8805-4bb97b06676d"
+      (reference "C15") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e8a9142a-0960-459d-91fc-58591abb5beb"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
+      (reference "C16") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/5034d7ce-1f68-4317-a2a0-2cca2fce498d"
+      (reference "C17") (unit 1) (value "10uF") (footprint "tapebot:CAPPM6032X280N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/69470701-d501-412a-abdc-1d305b35fe7e"
+      (reference "C18") (unit 1) (value "10uF") (footprint "tapebot:CAPPM6032X280N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/21b5daec-350c-448d-a356-aa5f8a468049"
+      (reference "C19") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/5e38b9fe-fc2e-45f3-b2b5-3dace2d5c101"
+      (reference "C20") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/cdc54273-7a3f-493c-bf3e-5529171dd312"
+      (reference "C21") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/1b2fd34f-03fd-4b1a-a06f-444c72ddddd4"
+      (reference "C22") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/96b1d58c-ae88-4a32-bb63-6ba9a575f0e1"
+      (reference "C23") (unit 1) (value "10uF") (footprint "tapebot:CAPPM6032X280N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/616d695e-8cd3-4b5c-8463-d4602e268249"
+      (reference "C24") (unit 1) (value "10uF") (footprint "tapebot:CAPPM6032X280N")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/eb99ade3-0ee9-498e-8ba8-35657dcd67ac"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "SparkFun_Motor_Driver-TB6612FNG_v11c:0402")
+      (reference "C25") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/0bcef9d3-0fcd-4803-8ece-8049c3ae7db6"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/137f5e2f-3c90-401c-b77d-2a745275e40c"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/1f637b51-592f-4c23-a124-94b18f44b038"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/3347904f-9e5b-4075-9be5-6832d1afa66f"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3d307e46-3ad1-45c8-9ae7-8b184626f8f7"
-      (reference "J?") (unit 1) (value "43045-0412") (footprint "tapebot:43045-04YY_121314")
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/8ae64e9d-4b69-4d90-a914-c6ad3dbcc005"
+      (reference "C26") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/4ce0f184-34fb-4fb0-9c01-e41a788f58dd"
-      (reference "J?") (unit 1) (value "43045-0412") (footprint "tapebot:43045-04YY_121314")
+      (reference "J1") (unit 1) (value "43045-0412") (footprint "tapebot:43045-04YY_121314")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/8b1b512b-9dca-4afb-b930-3df2e00250ee"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3d307e46-3ad1-45c8-9ae7-8b184626f8f7"
+      (reference "J2") (unit 1) (value "43045-0412") (footprint "tapebot:43045-04YY_121314")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/babefa95-1f98-4fbe-895e-64fa217da831"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+      (reference "J3") (unit 1) (value "9652068") (footprint "tapebot:9652068")
     )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bb8d13a1-5e58-405b-9a7a-b4040895d0c6"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/1f637b51-592f-4c23-a124-94b18f44b038"
+      (reference "J4") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/0bcef9d3-0fcd-4803-8ece-8049c3ae7db6"
+      (reference "J5") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/3347904f-9e5b-4075-9be5-6832d1afa66f"
+      (reference "J6") (unit 1) (value "9652068") (footprint "tapebot:9652068")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/c26de803-0e6e-4923-be5f-d842d07df327"
-      (reference "J?") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+      (reference "J7") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/bb8d13a1-5e58-405b-9a7a-b4040895d0c6"
+      (reference "J8") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/8b1b512b-9dca-4afb-b930-3df2e00250ee"
+      (reference "J9") (unit 1) (value "9652068") (footprint "tapebot:9652068")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/137f5e2f-3c90-401c-b77d-2a745275e40c"
+      (reference "J10") (unit 1) (value "9652068") (footprint "tapebot:9652068")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/c9f66877-61c9-4ed4-ab91-fc133e57f4fa"
-      (reference "L2") (unit 1) (value "3.3uH") (footprint "SparkFun_HX711_Load_Cell:0805")
+      (reference "L1") (unit 1) (value "3.3uH") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/078841ea-b96e-489d-889c-efcad7ab8a35"
-      (reference "L?") (unit 1) (value "3.3uH") (footprint "SparkFun_HX711_Load_Cell:0805")
+      (reference "L2") (unit 1) (value "3.3uH") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/a0d0ff17-ed8f-4bfe-903a-42419e5de688"
-      (reference "Q2") (unit 1) (value "MMBT4403") (footprint "SparkFun_HX711_Load_Cell:SOT23-3")
+      (reference "Q1") (unit 1) (value "MMBT4403") (footprint "tapebot:SOT23-BEC")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/e4887e29-1f9f-4dc0-a190-4f5a81c021c6"
-      (reference "Q?") (unit 1) (value "MMBT4403") (footprint "SparkFun_HX711_Load_Cell:SOT23-3")
+      (reference "Q2") (unit 1) (value "MMBT4403") (footprint "tapebot:SOT23-BEC")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/9e2f5c00-ea13-401c-9dd0-bd990a03b401"
-      (reference "R5") (unit 1) (value "20k") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R1") (unit 1) (value "20k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/cbd54460-0881-4736-800a-dd276d15ebdc"
-      (reference "R6") (unit 1) (value "8.2K") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R2") (unit 1) (value "8.2K") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1e2c2c75-72e1-4035-bb12-0a30c2137da4"
-      (reference "R7") (unit 1) (value "100") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R3") (unit 1) (value "100") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/02159012-dfcf-47ff-976d-4e1233f37f12"
-      (reference "R8") (unit 1) (value "100") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1f420aa3-b291-4373-822d-5c77bf458977"
-      (reference "R10") (unit 1) (value "10K") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R4") (unit 1) (value "100") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/2cb72098-00a3-4890-95c4-1edb46be80fb"
-      (reference "R?") (unit 1) (value "20k") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3c9cb294-3630-4e93-b0f3-770be4545162"
-      (reference "R?") (unit 1) (value "10K") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R5") (unit 1) (value "20k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/665420c4-793a-4038-ad4f-6f6183210aaa"
-      (reference "R?") (unit 1) (value "8.2K") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
-    )
-    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/d3308cc8-604d-4ad8-94ed-1ab861a075de"
-      (reference "R?") (unit 1) (value "100") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R6") (unit 1) (value "8.2K") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/ebeaab74-9422-4bc4-b0a4-4fb3ba2b33b6"
-      (reference "R?") (unit 1) (value "100") (footprint "SparkFun_HX711_Load_Cell:0603-RES")
+      (reference "R7") (unit 1) (value "100") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/d3308cc8-604d-4ad8-94ed-1ab861a075de"
+      (reference "R8") (unit 1) (value "100") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/1f420aa3-b291-4373-822d-5c77bf458977"
+      (reference "R9") (unit 1) (value "10K") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/3c9cb294-3630-4e93-b0f3-770be4545162"
+      (reference "R10") (unit 1) (value "10K") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/2e219b3d-4163-4aee-baeb-ed17bca20b86"
-      (reference "SJ2") (unit 1) (value "JUMPER-PAD-2-NC_BY_TRACE") (footprint "SparkFun_HX711_Load_Cell:PAD-JUMPER-2-NC_BY_TRACE_YES_SILK")
+      (reference "SJ1") (unit 1) (value "JUMPER-PAD-2-NC_BY_TRACE") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/89c033c4-a9c3-4dde-a88f-2ba0a9e268e5"
-      (reference "SJ?") (unit 1) (value "JUMPER-PAD-2-NC_BY_TRACE") (footprint "SparkFun_HX711_Load_Cell:PAD-JUMPER-2-NC_BY_TRACE_YES_SILK")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/06d2401c-6104-4dd9-b33c-7272ebf4d147"
-      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+      (reference "SJ2") (unit 1) (value "JUMPER-PAD-2-NC_BY_TRACE") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/41f9a019-9f23-4c10-bf00-5e9c26b970f8"
-      (reference "U?") (unit 1) (value "HX711HX711") (footprint "tapebot:SOP127P600X180-16N")
+      (reference "U1") (unit 1) (value "HX711HX711") (footprint "tapebot:SOP127P600X180-16N")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/6fe25257-3f1c-47b5-8c43-88b189e56ff8"
-      (reference "U?") (unit 1) (value "HX711HX711") (footprint "tapebot:SOP127P600X180-16N")
+      (reference "U2") (unit 1) (value "HX711HX711") (footprint "tapebot:SOP127P600X180-16N")
     )
     (path "/6bde84b5-500c-4444-9d0c-2656b10589ad/76430b6b-b987-4bd6-8a7b-69f258012c79"
-      (reference "U?") (unit 1) (value "Teensy4.1") (footprint "teensy:Teensy41")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/76689168-f915-4ea7-9760-fac438edb92a"
-      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
-    )
-    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e9735ef5-1122-4997-a2c2-222e5ef9a548"
-      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+      (reference "U3") (unit 1) (value "Teensy4.1") (footprint "teensy:Teensy41")
     )
     (path "/8ce0de50-45f8-41b3-828e-d5e362098647/ffdd4337-c86c-4777-8a80-cf93d59abd6c"
-      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+      (reference "U4") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/76689168-f915-4ea7-9760-fac438edb92a"
+      (reference "U5") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/e9735ef5-1122-4997-a2c2-222e5ef9a548"
+      (reference "U6") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
+    )
+    (path "/8ce0de50-45f8-41b3-828e-d5e362098647/06d2401c-6104-4dd9-b33c-7272ebf4d147"
+      (reference "U7") (unit 1) (value "TB6612FNG") (footprint "tapebot:SOP65P760X160-24N")
     )
   )
 )

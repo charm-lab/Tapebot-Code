@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '593D106X9025C2TE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "593D106X9025C2TE3" (!) = "", "CAPPM6032X280N", "Capacitor Moulded Polarised", "74-593D106X9025C2TE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/593D106X9025C2TE3?qs=TsARsRgmYAZdlImOQF2ipQ%3D%3D", "Vishay +/-10% 10uF 25 V dc SMD Tantalum Electrolytic Capacitor, 6032-28 ESR 450m +125C", "http://www.vishay.com/doc?40005", "2.8 mm"
+END_PART
+
+END.

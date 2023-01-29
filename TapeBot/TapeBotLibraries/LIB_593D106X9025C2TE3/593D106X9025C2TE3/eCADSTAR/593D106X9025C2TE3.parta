@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_184571"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2016-08-12-13:43:14)
+    (utime 2020-09-21-20:12:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "593D106X9025C2TE3")
+)
+
+
+(pinAssign "ECS_184571"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2016-08-12-13:43:14)
+    (utime 2020-09-21-20:12:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_184571")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "593D106X9025C2TE3")
+)
+
+
+(part "593D106X9025C2TE3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2016-08-12-13:43:14)
+    (utime 2020-09-21-20:12:14)
+    (packageRef "593D106X9025C2TE3")
+    (pinAssignRef "ECS_184571")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Vishay +/-10% 10uF 25 V dc SMD Tantalum Electrolytic Capacitor, 6032-28 ESR 450m +125C")
+    (property "Mouser_Part_Number" "74-593D106X9025C2TE3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/593D106X9025C2TE3?qs=TsARsRgmYAZdlImOQF2ipQ%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "593D106X9025C2TE3")
+    (property "Datasheet_Link" "http://www.vishay.com/doc?40005")
+    (property "compAreaTopHeight" 2.8)
+)
+
+

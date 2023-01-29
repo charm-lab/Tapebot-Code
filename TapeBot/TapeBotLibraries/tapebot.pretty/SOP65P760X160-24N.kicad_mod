@@ -188,4 +188,9 @@
   (pad "22" smd rect (at 3.625 -2.275 270) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 35626452-2285-4bec-a734-c4ee397f9a36))
   (pad "23" smd rect (at 3.625 -2.925 270) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8e7fb73b-61eb-478f-a2ca-f88c510904b5))
   (pad "24" smd rect (at 3.625 -3.575 270) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d43441a1-7659-4d38-8fa9-ce2d67226b05))
+  (model "${KIPRJMOD}/TapeBotLibraries/TB6612FNG_C_8_EL/TB6612FNG_C_8_EL.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
