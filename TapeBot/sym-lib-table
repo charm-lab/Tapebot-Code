@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "tapebot")(type "KiCad")(uri "/Users/spencerwallace/Downloads/DEV-16771/tapebot.kicad_sym")(options "")(descr ""))
-  (lib (name "teensy")(type "Legacy")(uri "/Users/spencerwallace/Downloads/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/TapeBotLibraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "tapebot")(type "KiCad")(uri "${KIPRJMOD}/TapeBotLibraries/tapebot.kicad_sym")(options "")(descr ""))
 )
