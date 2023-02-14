@@ -1,0 +1,16 @@
+.L7805ABD2T-TR :1 ;Linear Voltage Regulators 5.0V 1.0A Positive
+D2PAK-STB35NF10T4
+*STM IC
+*NGS
+*PLB 1="INPUT" 3="OUTPUT" 4="GND"
+*MXP 3
+*DFN L7805ABD2T-TR
+~!Mouser Part Number (511-L7805ABD2T-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7805ABD2T-TR?qs=LL%252BsqOK9SqOQ%2FfZD5ZsNqA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (L7805ABD2T-TR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/l78.pdf)
+~!Height (-)
+~!3D_Model (L7805ABD2T-TR)
+L7805ABD2T-TR
+1.1!U 3.1!U 4.1!U 

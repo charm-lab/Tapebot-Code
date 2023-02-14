@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L7805ABD2T_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "L7805ABD2T-TR" (!) = "", "D2PAK-STB35NF10T4", "Other", "511-L7805ABD2T-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7805ABD2T-TR?qs=LL%252BsqOK9SqOQ%2FfZD5ZsNqA%3D%3D", "Linear Voltage Regulators 5.0V 1.0A Positive", "https://www.st.com/resource/en/datasheet/l78.pdf"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "D2PAK-STB35NF10T4"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "D2PAK-STB35NF10T4")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L7805ABD2T-TR
+D Linear Voltage Regulators 5.0V 1.0A Positive
+K
+F https://www.st.com/resource/en/datasheet/l78.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,4 +1,4 @@
-20344395189700068
+20351120920412607
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85743,6 +85743,20 @@ Capacitor Polarised
 2
 2
 tapebot
+CHARM_Logo
+
+
+0
+0
+0
+tapebot
+D2PAK-STB35NF10T4
+D2PAK-STB35NF10T4
+Integrated Circuit
+0
+3
+3
+tapebot
 SOP65P760X160-24N
 
 
@@ -85763,6 +85777,20 @@ SOT23-BEC
 0
 3
 3
+tapebot
+SmallLogo
+
+
+0
+0
+0
+tapebot
+TE_282837-2
+
+
+0
+2
+2
 teensy
 Teensy1.0
 11

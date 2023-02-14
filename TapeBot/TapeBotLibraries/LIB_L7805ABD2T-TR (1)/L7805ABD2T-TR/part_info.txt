@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L7805ABD2T-TR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=2.5
+Released=2019-06-13 10:40:02
+Downloaded=2023-02-14 07:45:17
+3D=Y

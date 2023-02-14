@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "L7805ABD2T-TR"
+   (description "Linear Voltage Regulators 5.0V 1.0A Positive")
+   (family "ANA")
+   (package "D2PAK-STB35NF10T4")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/l78.pdf")
+   (attribute "Mouser Part Number" "511-L7805ABD2T-TR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7805ABD2T-TR?qs=LL%252BsqOK9SqOQ%2FfZD5ZsNqA%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "L7805ABD2T-TR")
+   (gate
+    (symbol "L7805ABD2T-TR")
+    (pin "INPUT" 1 PS)
+    (pin "OUTPUT" 3 PS)
+    (pin "GND" 4 PS)
+   )
+  )
+  (symbol "L7805ABD2T-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "D2PAK-STB35NF10T4"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -9.15 0)
+      (pt 0 0)
+      (pt 0 -10.2)
+      (pt -9.15 -10.2)
+      (pt -9.15 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt 0 -10.2)
+      (pt -1.535 -10.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt -1.644 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.5)
+     (circle
+      (pt 4.384 -9.449) (pt 4.822 -9.449)
+     )
+    )
+   )
+   (leg 1 (pt 2.904 -7.64) (padstack 0))
+   (leg 3 (pt 2.904 -2.56) (padstack 0))
+   (leg 4 (pt -7.371 -5.1) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.6 3.5 0 0 0))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 9.75 12.2 0 0 90))
+   )
+   (model "L7805ABD2T-TR.stp"
+    (euler 90 0 90)
+    (offset -5.570000171661377 -5.099999904632568 0)
+   )
+  )
+ )
+)
