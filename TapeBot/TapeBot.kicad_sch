@@ -41722,7 +41722,7 @@
       (reference "#PWR044") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/7de10a97-144a-47b4-af89-2ed49737c63d"
-      (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/117984f9-9ebe-45aa-9094-1a94cb62aed3/884f2a3d-b636-416b-b57b-0c06d1dca1f6"
       (reference "C2") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
