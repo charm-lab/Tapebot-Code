@@ -15,30 +15,30 @@
 #define ENCODER_SR2            1
 
 //Tape Roller Pins
-#define MOTOR_RR1              17 
+#define MOTOR_RR1              19 
 #define MOTOR_RR2              18
-#define MOTOR_RRCONTROL        19
-#define ENCODER_RR1            15
-#define ENCODER_RR2            14
+#define MOTOR_RRCONTROL        17
+#define ENCODER_RR1            14
+#define ENCODER_RR2            15
 
 //Left Spool Pins
-#define MOTOR_SL1              4
+#define MOTOR_SL1              6
 #define MOTOR_SL2              5
-#define MOTOR_SLCONTROL        6
-#define ENCODER_SL1            23
-#define ENCODER_SL2            22
+#define MOTOR_SLCONTROL        4
+#define ENCODER_SL1            22
+#define ENCODER_SL2            23
 
 //Pinching Roller Pins
 #define MOTOR_PINCH1           12
 #define MOTOR_PINCH2           11
 #define MOTOR_PINCHCONTROL     10
-#define ENCODER_PINCH1         31
-#define ENCODER_PINCH2         33
+#define ENCODER_PINCH1         21
+#define ENCODER_PINCH2         20
 
 //Moving Pinching Arm Pins
-#define MOTORARM1              28
-#define MOTORARM2              27
-#define MOTORARM_CONTROL       29
+#define MOTORARM1              29
+#define MOTORARM2              28
+#define MOTORARM_CONTROL       27
 #define ENCODER_MA1            26
 #define ENCODER_MA2            25
 
@@ -48,9 +48,9 @@
 #define CABLE_RCONTROL         37
 
 //Left Cable Pins
-#define CABLE_L1               34
+#define CABLE_L1               36
 #define CABLE_L2               35
-#define CABLE_LCONTROL         36
+#define CABLE_LCONTROL         34
 
 //Load Cell Inputs
 #define loadData_R             40
