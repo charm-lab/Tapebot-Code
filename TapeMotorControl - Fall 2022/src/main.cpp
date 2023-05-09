@@ -79,7 +79,7 @@ unsigned long int revCountarm = 2959;
 //---------------------------------------------
 
 //Physical constants for rollers, spools, etc------------------------
-double startRDiameter = 36;     //Right spool starting tape diameter
+double startRDiameter = 36;     //Right spool starting tape diameter millimeters
 double startLDiameter = 36;     //Left spool starting tape diameter
 double currentRDiameter = startRDiameter;
 double currentLDiameter = startLDiameter;
