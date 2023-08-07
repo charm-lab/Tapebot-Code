@@ -1,5 +1,5 @@
-# Reading and Saving Serial Data from MCU
-# Written by:
+# Reading and Saving Serial Data from an Arduino and a Force Sensor 
+# Written by: Frances Raphael fraphael@stanford.edu
 import serial
 import datetime
 import csv
@@ -10,7 +10,8 @@ import threading
 import numpy as np
 from scipy import signal
 # CONSTANTS
-RUNTIME_LENGTH = 60  # second
+RUNTIME_LENGTH = 30
+ # second
 PATH_DEST = "/home/frances/Tapebot-Code/TapeBotTestSetup"
 PORT_NAME1 = "/dev/ttyS7"
 PORT_NAME2 = "/dev/ttyS10"
